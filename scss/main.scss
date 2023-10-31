@@ -6,7 +6,7 @@
 
 $primary-font-color : #61686b;
 $border-color : #e5e5e5;
-$link-color : #5ba4e5;
+$link-color : #FF7D55;
 
 $font-size-primary : 14px;
 $font-size-bigger : 16px;
@@ -18,7 +18,7 @@ $leave_cell_font_color : #61686b;
 // 5E5E5E
 
 body {
-  font: $font-size-primary "Open Sans", Helvetica, Arial, sans-serif;
+  font: $font-size-primary Open Sans, Helvetica, Arial, "sans-serif";
   color: $primary-font-color;
 }
 
